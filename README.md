@@ -48,7 +48,7 @@ Added Slicers to filter the data.
   
 ## Dashboard (PowerBI services)
 
-https://app.powerbi.com/groups/me/reports/a44cdc84-06ce-4ef5-b403-d3b5baf30b17/8e1e28d49527a127d855?experience=power-bi
+![Image](https://github.com/user-attachments/assets/8a2cce6c-70aa-4d8b-9bce-df9c7e2d877d)
 
 ## Conclusion
 This project provides valuable insights into border traffic patterns.
