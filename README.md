@@ -45,6 +45,10 @@ Added Slicers to filter the data.
 ## Power BI Visualizations
 - **Stacked Column Charts**: Yearly trends in crossings and Common measure type by state.
 - **Line Charts**: Monthly comparisons for Trucks and Pedestrian crossings.
+  
+## Dashboard (PowerBI services)
+
+https://app.powerbi.com/groups/me/reports/a44cdc84-06ce-4ef5-b403-d3b5baf30b17/8e1e28d49527a127d855?experience=power-bi
 
 ## Conclusion
 This project provides valuable insights into border traffic patterns.
